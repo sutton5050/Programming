@@ -28,8 +28,6 @@ function renderTodoList() {
         renderTodoList();
       });
     });
-
-
   }
 
 function handleAddKeydown(event) {
