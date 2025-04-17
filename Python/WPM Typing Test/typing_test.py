@@ -84,3 +84,5 @@ def main(stdscr):
 
 
 wrapper(main)
+
+# This is a typing game in terminal
